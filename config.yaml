@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "Jose Toledo Luna Personal Website"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -22,11 +22,13 @@ menu:
     - name: Teaching
       url: "teaching/"
       weight: 3
-
+    - name: Software
+      url: "software/"
+      weight: 4
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Jose Toledo] 2022 | [Github](https://github.com/toledo60) | [ORCID](https://orcid.org/0000-0001-8559-0027)"
+  footer: "&copy; [Jose Toledo](https://jose-toledo.netlify.app/) 2022 | [Github](https://github.com/toledo60) | [ORCID](https://orcid.org/0000-0001-8559-0027)"
 
 markup:
   highlight:
