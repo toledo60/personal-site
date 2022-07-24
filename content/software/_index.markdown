@@ -5,6 +5,6 @@
 
 ## Python packages
 
-- [pyLHD](https://github.com/toledo60/pyLHD): Latin Hypercube Designs for Python
+- [pyLHD](https://toledo60.github.io/pyLHD/): Latin Hypercube Designs for Python
 
 - [pyLHD-Streamlit](https://share.streamlit.io/toledo60/pylhd-streamlit/main/pyLHD_streamlit.py): A streamlit applcation for *pyLHD*
