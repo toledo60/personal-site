@@ -28,7 +28,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Jose Toledo](https://jose-toledo.netlify.app/) 2022 | [Github](https://github.com/toledo60) | [ORCID](https://orcid.org/0000-0001-8559-0027)"
+  footer: "&copy; [Jose Toledo](https://jose-toledo.netlify.app/) 2022 | [Github](https://github.com/toledo60) | [ORCID](https://orcid.org/0000-0001-8559-0027) |  [CV](/pdf/CV.pdf) |"
 
 markup:
   highlight:

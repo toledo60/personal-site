@@ -5,7 +5,7 @@ title: Teaching Experience
 **University of California, Los Angeles**
 
 - STATS 13: Introduction to Statistical Methods for Life \
-`\(\hspace{9ex}\)` and Health Sciences *(Summer 2022)*
+and Health Sciences *(Summer 2022)*
 
 
 **California State University, Fullerton**
